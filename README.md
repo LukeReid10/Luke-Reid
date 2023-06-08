@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--><p align="center">
+  <img src="https://cdn.dribbble.com/users/206755/screenshots/2387113/upgrade-premium-animation-dribbble.gif" width="300" height="300" alt="Coding"/>
+</p>
 <h1 align="center">Hi 👋, I'm Luke Reid</h1>
 <h3 align="center">I am a diligent Mathematics Specialist with a strong background in Business Analytics.</h3>
+
 - 🔭 I’m currently working on [excel_and_powerbi_data_analysis_project](https://github.com/Reid4Life/excel_and_powerbi_data_analysis_project.git)
 
 - 🌱 I’m currently learning **Machine Learning Algorithms**
